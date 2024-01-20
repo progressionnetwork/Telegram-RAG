@@ -1,8 +1,10 @@
 # Telegram-RAG - Telegram Parser with RAG and ChromaDB
+Integrating of Retrieval-augmented Generation (RAG) with ChromaDB and Langchain to enable users to ask questions from parsed Telegram data with the ChatGPT API.
+
+![splash]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://media.cloudbooklet.com/uploads/2023/10/30100253/Telegram-AI-Chatbots-1.jpg))
 
 ## About 
 
-Integrating of Retrieval-augmented Generation (RAG) with ChromaDB and Langchain to enable users to ask questions from parsed Telegram data with the ChatGPT API
 This project is designed to parse messages from a Telegram group and enable querying that data using a Retrieval-Augmented Generation (RAG) model, which leverages ChromaDB for efficient vector storage and retrieval, and Langchain to provide a seamless interface for language model interactions.
 
 ## Features
@@ -14,9 +16,9 @@ This project is designed to parse messages from a Telegram group and enable quer
 
 ## Project Structure
 
-- `telegram_parser/`: Contains the code for parsing Telegram group messages.
-- `rag/`: Includes the RAG logic and integration with Langchain and ChromaDB.
-- `utils/`: Utility scripts and helpers for the project.
+- `tg_dumper.py`: Contains the code for parsing Telegram group messages.
+- `rag.py`: Includes the RAG logic and integration with Langchain and ChromaDB.
+- `utils.py`: Utility scripts and helpers for the project.
 - `requirements.txt`: The Python dependencies required for the project.
 
 ## Installation
