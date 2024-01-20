@@ -1,7 +1,8 @@
 # Telegram-RAG - Telegram Parser with RAG and ChromaDB
 Integrating of Retrieval-augmented Generation (RAG) with ChromaDB and Langchain to enable users to ask questions from parsed Telegram data with the ChatGPT API.
 
-![splash]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://media.cloudbooklet.com/uploads/2023/10/30100253/Telegram-AI-Chatbots-1.jpg))
+![splash]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://media.cloudbooklet.com/uploads/2023/10/30100253/Telegram-AI-Chatbots-1.jpg)](https://media.cloudbooklet.com/uploads/2023/10/30100253/Telegram-AI-Chatbots-1.jpg))
+
 
 ## About 
 
